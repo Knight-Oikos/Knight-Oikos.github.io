@@ -1,6 +1,3 @@
-# Jun Yao Wang ([Knight-Oikos.github.io](https://knight-oikos.github.io/))
-
-
 ## About
 
 <img align = "left" src= photos/IMG_2791.jpeg width="300">
