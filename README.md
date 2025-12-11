@@ -1,2 +1,2 @@
-# Knight-Oikos.github.io
+# Jun Yao Wang
 Personal Website
