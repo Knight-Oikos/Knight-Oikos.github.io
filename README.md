@@ -1,1 +1,0 @@
-Knight-Oikos.github.io
